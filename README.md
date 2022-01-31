@@ -1,5 +1,5 @@
 # MUS-177-HW1
-Assignment 1 for MUS 177. <br>
+Assignment 1 for MUS 177 written in C for PD. <br>
 Important code is in <em>hw1.c</em> and <em>makefile</em>. <br>
 Example PD is in <em>testhw1.pd</em>. <br>
 <em>hw1.dll</em>, <em>hw1.exp</em>, <em>hw1.lib</em>, and <em>hw1.obj</em> are also included. <br> <br>
